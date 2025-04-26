@@ -27,7 +27,7 @@ A beautiful, customizable **Rich Text Editor** built with **React** and **Ant De
 
 ## 🚀 Live Preview
 
-Coming Soon...
+[🔗](https://jaimin-text-editor-apiwiz.netlify.app/)
 
 ---
 
